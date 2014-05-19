@@ -1,0 +1,81 @@
+Python 2.7.2 (default, Jun 12 2011, 15:08:59) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+
+Traceback (most recent call last):
+  File "C:\Documents and Settings\Administrator\Desktop\final_Project\depth_class.py", line 1, in <module>
+    from LinkExtractor.Get_all_links import get_all_links
+ImportError: No module named LinkExtractor.Get_all_links
+>>> ================================ RESTART ================================
+>>> 
+
+Traceback (most recent call last):
+  File "C:\Documents and Settings\Administrator\Desktop\final_Project\depth_class.py", line 3, in <module>
+    from boyerMoore import *
+ImportError: No module named boyerMoore
+>>> ================================ RESTART ================================
+>>> 
+
+Traceback (most recent call last):
+  File "C:\Documents and Settings\Administrator\Desktop\final_Project\depth_class.py", line 3, in <module>
+    from boyerMoore import *
+ImportError: No module named boyerMoore
+>>> ================================ RESTART ================================
+>>> 
+
+Traceback (most recent call last):
+  File "C:\Documents and Settings\Administrator\Desktop\final_Project\depth_class.py", line 3, in <module>
+    from Scanner.boyerMoore import *
+  File "C:\Documents and Settings\Administrator\Desktop\final_Project\Scanner\boyerMoore.py", line 2, in <module>
+    from GetPage import get_page
+ImportError: No module named GetPage
+>>> ================================ RESTART ================================
+>>> 
+
+Traceback (most recent call last):
+  File "C:\Documents and Settings\Administrator\Desktop\final_Project\depth_class.py", line 3, in <module>
+    from Scanner.boyerMoore import *
+  File "C:\Documents and Settings\Administrator\Desktop\final_Project\Scanner\boyerMoore.py", line 2, in <module>
+    from GetPage import get_page
+ImportError: No module named GetPage
+>>> ================================ RESTART ================================
+>>> 
+
+Traceback (most recent call last):
+  File "C:\Documents and Settings\Administrator\Desktop\final_Project\depth_class.py", line 3, in <module>
+    from Scanner.boyerMoore import *
+  File "C:\Documents and Settings\Administrator\Desktop\final_Project\Scanner\boyerMoore.py", line 4, in <module>
+    from add_to_result import add_to_index
+ImportError: No module named add_to_result
+>>> ================================ RESTART ================================
+>>> 
+
+Traceback (most recent call last):
+  File "C:\Documents and Settings\Administrator\Desktop\final_Project\depth_class.py", line 4, in <module>
+    from linkchecker.linkcheck import *
+ImportError: No module named linkchecker.linkcheck
+>>> ================================ RESTART ================================
+>>> 
+3 3
+length is 3 and 3
+aaaaaaahaaa aaah
+aaaaaaahaaa aaah
+aaaaaaahaaa aaah
+aaaaaaahaaa aaah
+String aaaaaaahaaa contain pattern aaah
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+String abacaabadcabacabaabb contain pattern abacab
+aaaaaa/e%AAA /e%
+aaaaaa/e%AAA /e%
+aaaaaa/e%AAA /e%
+String aaaaaa/e%AAA contain pattern /e%
+[1, 0, 0, 0, 1, 0, 0, 0, 1]
+>>> 

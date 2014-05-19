@@ -1,0 +1,1682 @@
+Python 2.7.2 (default, Jun 12 2011, 15:08:59) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+3 3
+length is 3 and 3
+aaaaaaahaaa aaah
+aaaaaaahaaa aaah
+aaaaaaahaaa aaah
+aaaaaaahaaa aaah
+String aaaaaaahaaa contain pattern aaah
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+String abacaabadcabacabaabb contain pattern abacab
+aaaaaa/e%AAA /e%
+aaaaaa/e%AAA /e%
+aaaaaa/e%AAA /e%
+String aaaaaa/e%AAA contain pattern /e%
+[1, 0, 0, 0, 1, 0, 0, 0, 1]
+
+Traceback (most recent call last):
+  File "C:\Documents and Settings\Administrator\Desktop\final_Project\Test_LinkScan.py", line 3, in <module>
+    start_time = time.time()
+NameError: name 'time' is not defined
+>>> ================================ RESTART ================================
+>>> 
+3 3
+length is 3 and 3
+aaaaaaahaaa aaah
+aaaaaaahaaa aaah
+aaaaaaahaaa aaah
+aaaaaaahaaa aaah
+String aaaaaaahaaa contain pattern aaah
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+abacaabadcabacabaabb abacab
+String abacaabadcabacabaabb contain pattern abacab
+aaaaaa/e%AAA /e%
+aaaaaa/e%AAA /e%
+aaaaaa/e%AAA /e%
+String aaaaaa/e%AAA contain pattern /e%
+[1, 0, 0, 0, 1, 0, 0, 0, 1]
+None http://localhost/DepthTest2/A.html
+http://localhost/DepthTest2/A.html http://localhost/DepthTest2/C.html
+http://localhost/DepthTest2/A.html http://localhost/DepthTest2/B.html
+None http://localhost/DepthTest2/A.html
+http://localhost/DepthTest2/A.html http://localhost/DepthTest2/C.html
+http://localhost/DepthTest2/A.html http://localhost/DepthTest2/B.html
+http://localhost/DepthTest2/C.html http://localhost/DepthTest2/F.html
+None http://localhost/DepthTest2/A.html
+http://localhost/DepthTest2/A.html http://localhost/DepthTest2/C.html
+http://localhost/DepthTest2/A.html http://localhost/DepthTest2/B.html
+http://localhost/DepthTest2/C.html http://localhost/DepthTest2/F.html
+http://localhost/DepthTest2/B.html http://localhost/DepthTest2/D.html
+None http://localhost/DepthTest2/A.html
+http://localhost/DepthTest2/A.html http://localhost/DepthTest2/C.html
+http://localhost/DepthTest2/A.html http://localhost/DepthTest2/B.html
+http://localhost/DepthTest2/C.html http://localhost/DepthTest2/F.html
+http://localhost/DepthTest2/B.html http://localhost/DepthTest2/D.html
+http://localhost/DepthTest2/D.html http://localhost/DepthTest2/E.html
+None http://localhost/DepthTest2/A.html
+http://localhost/DepthTest2/A.html http://localhost/DepthTest2/C.html
+http://localhost/DepthTest2/A.html http://localhost/DepthTest2/B.html
+http://localhost/DepthTest2/C.html http://localhost/DepthTest2/F.html
+http://localhost/DepthTest2/B.html http://localhost/DepthTest2/D.html
+http://localhost/DepthTest2/D.html http://localhost/DepthTest2/E.html
+http://localhost/DepthTest2/F.html http://localhost/DepthTest2/D.html
+None http://localhost/DepthTest2/A.html
+http://localhost/DepthTest2/A.html http://localhost/DepthTest2/C.html
+http://localhost/DepthTest2/A.html http://localhost/DepthTest2/B.html
+http://localhost/DepthTest2/C.html http://localhost/DepthTest2/F.html
+http://localhost/DepthTest2/B.html http://localhost/DepthTest2/D.html
+http://localhost/DepthTest2/D.html http://localhost/DepthTest2/E.html
+http://localhost/DepthTest2/F.html http://localhost/DepthTest2/D.html
+set([])
+Inside Check http://localhost/DepthTest2/A.html True
+In check if else
+<a href="http://localhost/DepthTest2/B.html">B</href> 
+<a href="http://localhost/DepthTest2/C.html">C</href>
+
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:11:12 GMT
+ETag: "500000000e651-6f-4eba08b6596dd"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+226
+None
+Inside Link Parser
+<linkchecker.linkcheck.LinkParser instance at 0x01243580>
+set([])
+Inside Check http://localhost/DepthTest2/C.html True
+In check if else
+<a href="http://localhost/DepthTest2/F.html">F</href> 
+
+
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:36 GMT
+ETag: "800000000e658-3a-4eba090628f29"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+225
+None
+Inside Link Parser
+<linkchecker.linkcheck.LinkParser instance at 0x011B1A80>
+set([])
+Inside Check http://localhost/DepthTest2/B.html True
+In check if else
+<a href="http://localhost/DepthTest2/D.html">D</href> 
+
+
+
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:12:02 GMT
+ETag: "c00000000e64c-3c-4eba08e5c3cbb"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+225
+None
+Inside Link Parser
+<linkchecker.linkcheck.LinkParser instance at 0x01243918>
+set([])
+Inside Check http://localhost/DepthTest2/F.html True
+In check if else
+<a href="http://localhost/DepthTest2/D.html">D</href> 
+
+
+
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:55 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:14:07 GMT
+ETag: "400000000e65e-3c-4eba095cc0274"
+Accept-Ranges: bytes
+Content-Length: 60
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+225
+None
+Inside Link Parser
+<linkchecker.linkcheck.LinkParser instance at 0x01243940>
+set([])
+Inside Check http://localhost/DepthTest2/D.html True
+In check if else
+<a href="http://localhost/DepthTest2/E.html">E</href> 
+
+
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+225
+None
+Inside Link Parser
+<linkchecker.linkcheck.LinkParser instance at 0x011B1A80>
+set([])
+Inside Check http://localhost/DepthTest2/E.html True
+In check if else
+E contain nothing
+
+
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:07:44 GMT
+ETag: "400000000e661-15-4eba07ef6f090"
+Accept-Ranges: bytes
+Content-Length: 21
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+225
+None
+Inside Link Parser
+<linkchecker.linkcheck.LinkParser instance at 0x01243C60>
+set([])
+Inside Check http://localhost/DepthTest2/D.html True
+In check if else
+<a href="http://localhost/DepthTest2/E.html">E</href> 
+
+
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+Date: Fri, 22 Nov 2013 17:39:56 GMT
+Server: Apache/2.2.11 (Win32) PHP/5.3.0
+Last-Modified: Wed, 20 Nov 2013 19:13:34 GMT
+ETag: "300000000e65c-3a-4eba093d02d92"
+Accept-Ranges: bytes
+Content-Length: 58
+Connection: close
+Content-Type: text/html
+Content-Type: text/html
+225
+None
+Inside Link Parser
+<linkchecker.linkcheck.LinkParser instance at 0x01243E18>
+[[None, 'http://localhost/DepthTest2/A.html', 0, 0, ['http:']], ['http://localhost/DepthTest2/A.html', 'http://localhost/DepthTest2/C.html', 0, ['http:']], ['http://localhost/DepthTest2/A.html', 'http://localhost/DepthTest2/B.html', 0, ['http:']], ['http://localhost/DepthTest2/C.html', 'http://localhost/DepthTest2/F.html', 0, ['http:']], ['http://localhost/DepthTest2/B.html', 'http://localhost/DepthTest2/D.html', 0, ['http:']], ['http://localhost/DepthTest2/D.html', 'http://localhost/DepthTest2/E.html', 0, ['http:']], ['http://localhost/DepthTest2/F.html', 'http://localhost/DepthTest2/D.html', 0, ['http:']]]
+1.28099989891
+1.28860019994  Processors time in seconds
+>>> 

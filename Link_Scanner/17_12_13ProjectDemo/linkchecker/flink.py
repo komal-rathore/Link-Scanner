@@ -1,0 +1,14 @@
+from linkcheck import LinkChecker
+
+#lc = LinkChecker("http://www.kryer.co.uk/no_such_page.htm")
+lc = LinkChecker("http://www.mmw.net63.net")
+if lc.check():
+    print "Check is sussessful"
+    if not lc.follow():
+        print("there were problems")
+        print("\n".join(lc.failed))
+        print("\n".join(lc.other))
+    else:
+        print("website OK")
+else:
+    print("cannot open website or homepage is not html")
